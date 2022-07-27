@@ -1,0 +1,6 @@
+name: ProfundusGame
+version: '${version}'
+main: tech.inudev.profundus.profundusgame.ProfundusGame
+api-version: 1.17
+authors: [ kumitatepazuru ]
+description: Profundusミニゲームサーバーで使用するプラグイン
